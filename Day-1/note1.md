@@ -26,6 +26,8 @@ The code lab will walk you through getting started with the Gemini API and cover
 
     - Read the “[Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)” whitepaper.
     - Complete this [code lab](https://www.kaggle.com/code/markishere/day-1-prompting) on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify your account before starting, it's necessary for the code labs.
+
+    - [done](https://www.kaggle.com/code/mutaihillary27/day-1-prompting/edit)
     - [Optional] Read this [case study](https://cloud.google.com/blog/products/ai-machine-learning/how-commerzbank-is-transforming-financial-advisory-workflows-with-gen-ai?e=48754805) to learn how a leading bank leveraged advanced prompt engineering and other contents discussed in assignments of day 1 to automate their financial advisory workflows, achieving significant productivity gains.
 
 3. **Watch the [YouTube livestream recording](https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=1&t=13s)**. Paige Bailey will be joined by expert speakers from Google - Mohammadamin Barekatain, Lee Boonstra, Logan Kilpatrick, Daniel Mankowitz, Majd Merey Al, Anant Nawalgaria, Aliaksei Severyn and Chuck Sugnet to discuss today's readings and code labs.

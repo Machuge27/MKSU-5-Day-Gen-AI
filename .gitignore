@@ -1,0 +1,15 @@
+# don't commit environment files
+
+.env
+
+# don't commit node_modules
+
+node_modules
+
+# don't commit build files
+
+build
+
+# don't commit coverage reports
+
+coverage
