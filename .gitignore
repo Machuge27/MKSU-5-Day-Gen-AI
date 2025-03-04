@@ -13,3 +13,5 @@ build
 # don't commit coverage reports
 
 coverage
+
+0.8.3

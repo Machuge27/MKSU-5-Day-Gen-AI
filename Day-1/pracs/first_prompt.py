@@ -29,3 +29,5 @@ flash = genai.GenerativeModel('gemini-1.5-flash')
 response = flash.generate_content("Explain AI to me like I'm a kid.")
 print("\n++++++ Output ++++++\n", response.text + "ln++++++ End ++++++\n")
 Markdown(response.text)
+
+# 0725512184 - PHILOMINAH
