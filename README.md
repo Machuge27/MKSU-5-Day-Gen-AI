@@ -7,11 +7,11 @@ The 5-day course is structured as follows:
 
 | Day       | Topic                                | Link |
 |-----------|--------------------------------------|------|
-| **Day 1** | Foundational Models & Prompt Engineering | [Day 1 Materials](./Day1) |
-| **Day 2** | Embeddings and Vector Stores/Databases | [Day 2 Materials](./Day2) |
-| **Day 3** | Generative AI Agents                  | [Day 3 Materials](./Day3) |
-| **Day 4** | Domain-Specific LLMs                  | [Day 4 Materials](./Day4) |
-| **Day 5** | MLOps for Generative AI               | [Day 5 Materials](./Day5) |
+| **Day 1** | Foundational Models & Prompt Engineering | [Day 1 Materials](./Day-1) |
+| **Day 2** | Embeddings and Vector Stores/Databases | [Day 2 Materials](./Day-2) |
+| **Day 3** | Generative AI Agents                  | [Day 3 Materials](./Day-3) |
+| **Day 4** | Domain-Specific LLMs                  | [Day 4 Materials](./Day-4) |
+| **Day 5** | MLOps for Generative AI               | [Day 5 Materials](./Day-5) |
 
 ## How to Use This Repository
 1. Clone the repository: `git clone https://github.com/Machuge27/MKSU-5-Day-Gen-AI.git`
